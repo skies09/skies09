@@ -56,5 +56,3 @@ Welcome to my GitHub! I build production-ready web applications with React on th
 ## ✨ Motto
 
 > *"Build it clean. Build it right."*
-
-Thanks for stopping by — Check out the code — if it reduces your dependency array anxiety, drop a ⭐
